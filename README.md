@@ -2,6 +2,11 @@
 
 **A 2-day hackathon project by Team Zero Hour.**
 
+## Team Zero Hour
+
+- [Ponmudi M R](https://github.com/ponmudimr)
+- [Renga](https://github.com/Renga37)
+
 A full 24-hour digital clock (HH:MM:SS on six 7-segment displays) built entirely from discrete logic — one IC 555 timer and six CD4026 decade counter/display drivers. No microcontroller, no firmware, no BCD decoders. Every rollover is decoded straight off the segment lines.
 
 ## How It Works
