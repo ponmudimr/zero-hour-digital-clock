@@ -1,0 +1,9 @@
+# Altium Designer junk
+History/
+__Previews/
+*.SchDocPreview
+*.$$$
+*.~*
+Project Logs*/
+Project Outputs*/
+*.PrjPcbStructure
