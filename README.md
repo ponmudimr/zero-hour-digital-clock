@@ -1,4 +1,4 @@
-# 24-Hour Digital Clock — Pure Discrete Logic
+ 24-Hour Digital Clock — Pure Discrete Logic
 
 **A 2-day hackathon project by Team Zero Hour.**
 
