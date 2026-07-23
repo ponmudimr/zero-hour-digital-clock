@@ -1,4 +1,5 @@
- # 24-Hour Digital Clock — Pure Discrete Logic
+## Updated on July 2026
+# 24-Hour Digital Clock — Pure Discrete Logic
 
 **A 2-day hackathon project by Team Zero Hour.**
 
